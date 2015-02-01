@@ -441,12 +441,14 @@ module.exports.thangNames = thangNames =
     'Tarlok'
     'Trogdor'
     'Trung'
+    'Urk'
     'Vargutt'
   ]
   'Ogre F': [
     'Alkaz'
     'Gar\'ah'
     'Glonc'
+    'Grishnah'
     'Holkam'
     'Mak\'rah'
     'Marghurk'
@@ -496,6 +498,7 @@ module.exports.thangNames = thangNames =
     'Gogg'
     'Gom'
     'Grek'
+    'Griselda'
     'Gror'
     'Il\'Du\'duka'
     'Makas'
